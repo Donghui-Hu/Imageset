@@ -1,0 +1,1 @@
+This image database is specifically built for the research of mismatch of image source in stegoanalysis domain. Which images from 21 different types of mobile phone , and earch types contain about 1000 images. It is worth to note that the same scene does not exceed ten images, and no blurred images.
